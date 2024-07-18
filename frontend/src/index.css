@@ -1,0 +1,26 @@
+.create{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.welcome{
+    margin-top:70px;
+    margin-left: 70px;
+
+}
+
+.button-group {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .button-group .btn {
+    flex: 1;
+  }
+
+  .search{
+    max-width: 1000px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  }
+  
